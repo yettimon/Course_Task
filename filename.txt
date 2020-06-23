@@ -1,0 +1,15 @@
+ -------HEADER FOR HARRY POTTER TASK--------------
+First 20 pairs of distinct words: harry occurs 1214 times 
+First 20 pairs of distinct words: potter occurs 94 times 
+First 20 pairs of distinct words: and occurs 1919 times 
+First 20 pairs of distinct words: the occurs 3628 times 
+First 20 pairs of distinct words: sorcerer's occurs 16 times 
+First 20 pairs of distinct words: stone occurs 75 times 
+First 20 pairs of distinct words: chapter occurs 17 times 
+First 20 pairs of distinct words: one occurs 255 times 
+The word Harry occurs 688 times in the above book
+The word Hermiona occurs 688 times in the above book
+The word Ron occurs 899 times in the above book
+The word Dambldoor occurs 899 times in the above book
+The word Voldemort occurs 917 times in the above book
+[harry, 1214, potter, 94, and, 1919, the, 3628, sorcerer's, 16, stone, 75, chapter, 17, one, 255]
